@@ -1,0 +1,116 @@
+[
+    {
+        "weight": "<250",
+        "price": 12.43,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "500",
+        "price": 12.43,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "750",
+        "price": 15.42,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "1000",
+        "price": 15.42,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "2000",
+        "price": 20.77,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "3000",
+        "price": 26.07,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "4000",
+        "price": 31.43,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "5000",
+        "price": 36.77,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "6000",
+        "price": 42.13,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "7000",
+        "price": 47.49,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "8000",
+        "price": 52.83,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "9000",
+        "price": 58.83,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "10000",
+        "price": 63.54,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "11000",
+        "price": 88.19,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "12000",
+        "price": 88.19,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "13000",
+        "price": 88.19,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "14000",
+        "price": 88.19,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": "15000",
+        "price": 88.19,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    },
+    {
+        "weight": ">15000",
+        "price": 88.19,
+        "fromCountry": "FR",
+        "toCountry": "FR"
+    }
+]
