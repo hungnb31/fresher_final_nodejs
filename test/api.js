@@ -10,3 +10,7 @@ describe('GET /user', () => {
             .expect(200, done);
     });
 });
+
+
+// MAKE BETTER
+// I CAN DO IT

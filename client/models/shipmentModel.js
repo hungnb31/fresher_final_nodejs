@@ -86,3 +86,7 @@ db.serialize(() => {
 });
 
 module.exports = db;
+
+
+// MAKE BETTER
+// I CAN DO IT

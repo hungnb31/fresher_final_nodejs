@@ -34,7 +34,7 @@
                 "unit": "cm"
             },
             "grossWeight": {
-                "amount": 100,
+                "amount": 10,
                 "unit": "kg"
             }
         }

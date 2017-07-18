@@ -27,3 +27,7 @@ clientController(app);
 app.listen(PORT, () => console.log('App listen on PORT ' + PORT));
 
 module.exports = app;
+
+
+// MAKE BETTER
+// I CAN DO IT
